@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader-complete.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

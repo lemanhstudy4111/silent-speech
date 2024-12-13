@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/main
+# Install script for directory: C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

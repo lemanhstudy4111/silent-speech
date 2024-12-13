@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

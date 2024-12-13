@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\Users\honga\Documents\UMASS AMHERST\Fall 2024\CS528\assignment1\Assignment_Final\IMU\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\honga\Documents\UMASS AMHERST\Fall 2024\CS528\FP\IMU\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

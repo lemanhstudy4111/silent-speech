@@ -1,9 +1,7 @@
 {
 "idf.portWin": "COM8",
-"idf.adapterTargetName": "esp32s3",
 "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"
 ],
-"idf.flashType": "UART",
-"C_Cpp.errorSquiggles": "disabled"
+"idf.flashType": "UART"
 }

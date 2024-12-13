@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake")
-  include("C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/assignment1/Assignment_Final/IMU/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake")
+  include("C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake")
+  include("C:/Users/honga/Documents/UMASS AMHERST/Fall 2024/CS528/FP/IMU/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake")
 
 endif()
 
